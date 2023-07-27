@@ -7,6 +7,9 @@
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/n2words/badge)](https://www.jsdelivr.com/package/npm/n2words)
 
 __n2words__ converts numerical numbers into written ones, supports [27 languages](https://github.com/forzagreen/n2words#supported-languages), and has zero dependencies.
+## This Fork
+
+This fork changes the English written number functionality. 'and' is removed and numbers are capitalized.
 
 ## Example
 
