@@ -1,4 +1,4 @@
-# asutrick/n2words
+# @asutrick/n2words
 [Original project by forzagreen](https://github.com/forzagreen/n2words)
 __n2words__ converts numerical numbers into written ones, supports [27 languages](https://github.com/forzagreen/n2words#supported-languages), and has zero dependencies.
 ## This Fork
@@ -21,7 +21,7 @@ See the [Wiki](https://github.com/forzagreen/n2words/wiki) for examples and adva
 ## Install
 
 ```sh
-npm install n2words
+npm install @asutrick/n2words
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ npm install n2words
 ### ESM
 
 ```js
-import n2words from 'n2words'
+import n2words from '@asutrick/n2words'
 ```
 
 ### CommonJS ([dynamic import](https://nodejs.org/api/esm.html#import-expressions))
@@ -83,7 +83,7 @@ n2words is also available on [jsDelivr](https://www.jsdelivr.com/package/npm/n2w
 
 ## Contributing
 
-__This library is in active development.__ We want to improve the design and process for language contributors and add more languages. Bug reports and feature requests are also beneficial!
+This is a personal fork. Any issues/requests will not be acknowledged. The original repository is actively updated, so try there.
 
 ## License
 
