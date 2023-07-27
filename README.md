@@ -1,11 +1,5 @@
-# n2words
-
-[![Test](https://github.com/forzagreen/n2words/workflows/Test/badge.svg?branch=master)](https://github.com/forzagreen/n2words/actions)
-[![Coverage Status](https://coveralls.io/repos/github/forzagreen/n2words/badge.svg?branch=master)](https://coveralls.io/github/forzagreen/n2words?branch=master)
-[![npm](https://img.shields.io/npm/v/n2words.svg)](https://npmjs.com/package/n2words)
-[![npm](https://img.shields.io/npm/dw/n2words)](https://npmjs.com/package/n2words)
-[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/n2words/badge)](https://www.jsdelivr.com/package/npm/n2words)
-
+# asutrick/n2words
+[Original project by forzagreen](https://github.com/forzagreen/n2words)
 __n2words__ converts numerical numbers into written ones, supports [27 languages](https://github.com/forzagreen/n2words#supported-languages), and has zero dependencies.
 ## This Fork
 
