@@ -9,13 +9,13 @@
 __n2words__ converts numerical numbers into written ones, supports [27 languages](https://github.com/forzagreen/n2words#supported-languages), and has zero dependencies.
 ## This Fork
 
-This fork changes the English written number functionality. 'and' is removed and numbers are capitalized.
+This fork changes the English written number functionality. Significant words are capitalized and 'and' is removed.
 
 ## Example
 
 ```js
-n2words(123)   // 'one hundred and twenty-three'
-n2words(-1.5)  // 'minus one point five'
+n2words(123)   // 'One Hundred Twenty-Three'
+n2words(-1.5)  // 'minus One point Five'
 
 n2words(123, {lang: 'fr'})  // 'cent vingt-trois'
 n2words(123, {lang: 'es'})  // 'ciento veintitrés'
