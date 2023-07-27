@@ -1,5 +1,5 @@
 {
-  "name": "n2words",
+  "name": "@ASutrick/n2words",
   "version": "1.16.4",
   "description": "n2words converts a numerical number into a written one, supports 27 languages and has zero dependencies.",
   "keywords": [
